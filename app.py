@@ -1,2 +1,0 @@
-print("Hej pa dig")
-
