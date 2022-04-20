@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is master branch.
+||||||| merged common ancestors
+=======
+This is in Branch.
+>>>>>>> myTestBranch
